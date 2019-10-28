@@ -1,0 +1,47 @@
+Dart core
+
+
+  Var 
+     Dynamic variable
+  for each (for)
+     List.forEach(Val)=> 
+     print( Val) ;
+  Const (final)
+     Constant takes a space   
+     even if take value , Final 
+     does not take space until 
+     have a value.
+  Dart Math 
+     import 'dart:math' ;
+  Key : value
+     List xx = [{ "name":Ahmed ,    
+    "age":35 } , {age:21 }];
+  Short hand (if)
+     x>y ? Print ("yes") : print  
+     ("No") ;
+  Dead code
+      return;   return;
+  Constructor
+      Xyz(this.aa , this.bb);
+---------------------vid 43 start 
+
+extends
+Abstract class : must use
+Implements : must implement value
+
+string xxxx = "";  //set
+Constructor (this.xxxx); //set
+Void set xxxx( String xxxx){
+//////////
+This.xxxx= xxxx ; //set
+}
+String get xxxx {   //get
+///////
+return xxxx;
+}
+
+Var map = {'key' : 'value' ,}
+Map use key instead of index
+Can use for each 
+
+Use $ before variable in " " to print it value "name = $name"
